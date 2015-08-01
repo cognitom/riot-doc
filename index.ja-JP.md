@@ -1,5 +1,4 @@
 
-
 title: Riot 2.2 | A React-like UI library
 subtitle: なぜ Riot?
 description: そして、なぜ新たなUIライブラリが必要なのか
